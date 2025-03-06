@@ -1,4 +1,3 @@
-markdown
 
 # Никита Коваленко
 
@@ -14,9 +13,7 @@ markdown
 - **Языки программирования**: C#, C++, HTML.
 
 ## Пример кода
-csharp
-
-// Пример кода на C#
+```csharp
 public class HelloWorld
 {
     public static void Main(string[] args)
@@ -24,6 +21,7 @@ public class HelloWorld
         Console.WriteLine("Hello, World!");
     }
 }
+```
 
 ## Проекты
 1. **Персональный CV вебсайт**  
