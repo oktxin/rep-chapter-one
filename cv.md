@@ -1,4 +1,5 @@
 ```markdown
+```
 # Никита Коваленко
 
 ## Контактная информация
@@ -14,6 +15,7 @@
 
 ## Пример кода
 ```csharp
+```
 // Пример кода на C#
 public class HelloWorld
 {
@@ -22,7 +24,6 @@ public class HelloWorld
         Console.WriteLine("Hello, World!");
     }
 }
-```
 
 ## Проекты
 1. **Персональный CV вебсайт**  
