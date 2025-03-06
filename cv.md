@@ -1,5 +1,5 @@
-```markdown
-```
+markdown
+
 # Никита Коваленко
 
 ## Контактная информация
@@ -14,8 +14,8 @@
 - **Языки программирования**: C#, C++, HTML.
 
 ## Пример кода
-```csharp
-```
+csharp
+
 // Пример кода на C#
 public class HelloWorld
 {
@@ -44,4 +44,3 @@ public class HelloWorld
 ---
 
 © 2025 oktnkvlnknkta.
-```
