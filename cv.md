@@ -14,13 +14,26 @@
 
 ## Пример кода
 ```csharp
-public class HelloWorld
-{
-    public static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-    }
-}
+for (int j = 0; j < n; j++)
+        {
+            bool hasNegative = false;
+            for (int i = 0; i < n; i++)
+            {
+                if (matrix[i, j] < 0)
+                {
+                    hasNegative = true;
+                    break;
+                }
+            }
+
+            if (!hasNegative)
+            {
+                for (int i = 0; i < n; i++)
+                {
+                    sum += matrix[i, j];
+                }
+            }
+        }
 ```
 
 ## Проекты
